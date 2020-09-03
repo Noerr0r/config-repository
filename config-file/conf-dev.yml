@@ -1,4 +1,4 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:8181/eureka/
+serverAddress:
+   activeMq: http://192.168.229.131:616161
+   redis: http://192.168.229.131:6371
+   nginx: http://192.168.229.131:80
