@@ -1,7 +1,7 @@
 serverAddress:
    activeMq: http://192.168.229.131:616161
    redis: http://192.168.229.131:6371
-   nginx: http://192.168.229.131:80
+   nginx: http://192.168.229.131:8080
    
 spring: 
     rabbitmq:
